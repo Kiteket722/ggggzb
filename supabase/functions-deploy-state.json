@@ -1,0 +1,13 @@
+{
+  "projectId": "72526922",
+  "functions": {
+    "admin": {
+      "hasChanged": false,
+      "hash": "42c7f8de12fb12e24bbaeea2ba7115a0cd69e87228737aebc1e0509834eaa4f6"
+    },
+    "game": {
+      "hasChanged": false,
+      "hash": "2cea69524ada80043901ab8738bae0b198da8f241c662cc3ef1b7ec5dafcdac9"
+    }
+  }
+}
